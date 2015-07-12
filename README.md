@@ -1,2 +1,2 @@
 # c343
-c343 data structures projects
+c343 data structure projects
